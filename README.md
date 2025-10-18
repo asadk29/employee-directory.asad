@@ -12,6 +12,10 @@
 
 ## Tech Stack
  - Java, Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, HTML, MySQL, Maven, Eclipse.
+
+## Screenshot
+<img width="860" height="379" alt="Screenshot 2025-10-18 164926" src="https://github.com/user-attachments/assets/45bf38c6-61cb-4901-96d0-484c9c6b0253" />
+
 ## Setup
  - Command to clone:
    ```
@@ -28,8 +32,4 @@
    ```
    mvn spring-boot:run
    ``` 
-## Screenshot
-<img width="860" height="379" alt="Screenshot 2025-10-18 164926" src="https://github.com/user-attachments/assets/45bf38c6-61cb-4901-96d0-484c9c6b0253" />
 
-
-   
